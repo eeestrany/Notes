@@ -4,3 +4,6 @@
 [submodule "Notes.Frontend.git"]
 	path = Notes.Frontend
 	url = https://github.com/eeestrany/Notes.Frontend.git
+[submodule "Notes.Identity.git"]
+	path = Notes.Identity
+	url = https://github.com/eeestrany/Notes.Identity.git
