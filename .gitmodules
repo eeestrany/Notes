@@ -1,3 +1,6 @@
 [submodule "Notes.Backend.git"]
 	path = Notes.Backend
 	url = https://github.com/eeestrany/Notes.Backend.git
+[submodule "Notes.Frontend.git"]
+	path = Notes.Frontend
+	url = https://github.com/eeestrany/Notes.Frontend.git
